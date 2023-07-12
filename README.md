@@ -1,1 +1,2 @@
-# playground
+# Elijah Gronlund
+*summer program student*
